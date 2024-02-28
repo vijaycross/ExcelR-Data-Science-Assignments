@@ -19,32 +19,29 @@ This repository contains solutions to various assignments designed to help you g
 
 [06. Logistic Regression](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/06.%20Logistic%20Regression)
 
-[]()
+[07. Clustering](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/07.%20Clustering)
 
-[]()
+[08. PCA](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/08.%20PCA)
 
-[]()
+[09. Association Rules](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/09.%20Association%20Rules)
 
-[]()
+[10. Recommendation system](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/10.%20Recommendation%20system)
 
-[]()
+[11. Text Mining](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/11.%20Text%20Mining)
 
-[]()
+[12. Naive Bayes](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/12.%20Naive%20Bayes)
 
-[]()
+[13. KNN](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/13.%20KNN)
 
-[]()
+[14. Decision Trees](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/14.%20Decision%20Trees)
 
-[]()
+[15. Random Forest](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/15.%20Random%20Forest)
 
-[]()
+[16. Neural Networks](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/16.%20Neural%20Networks)
 
-[]()
+[17. Support Vector Machines](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/17.%20Support%20Vector%20Machines)
 
-[]()
-
-[]()
-
+[18. Forecasting](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/18.%20Forecasting)
 
 
 ...
