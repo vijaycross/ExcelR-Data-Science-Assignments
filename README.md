@@ -44,16 +44,8 @@ This repository contains solutions to various assignments designed to help you g
 [18. Forecasting](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/18.%20Forecasting)
 
 
-...
-** Additional Resources **
 
-Documentation: For more detailed explanations and documentation, refer to our course documentation.
-
-Discussion Forum: Have questions or want to discuss concepts further? Head over to our discussion forum.
-
-Feedback: We value your feedback! Let us know how we can improve by opening an issue in this repository.
-
-Getting Started
+**Getting Started**
 To get started with the assignments, simply click on the links provided above for each assignment. If you encounter any issues or have questions, feel free to reach out to us via the discussion forum or by opening an issue.
 
 Happy learning!
