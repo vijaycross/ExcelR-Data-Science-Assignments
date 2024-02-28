@@ -9,15 +9,15 @@ This repository contains solutions to various assignments designed to help you g
 
 [01. Basic Statistics Level 1](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/01.%20Basic%20Statistics_Level%201)
 
-[]()
+[02. Basic Statistics_Level-2](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/02.%20Basic%20Statistics_Level-2)
 
-[]()
+[03. Hypothesis Testing Previous Subsection](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/03.%20Hypothesis%20Testing%20Previous%20Subsection)
 
-[]()
+[04. Simple Linear Regression](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/04.%20Simple%20Linear%20Regression)
 
-[]()
+[05. Multi Linear Regression](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/05.%20Multi%20Linear%20Regression)
 
-[]()
+[06. Logistic Regression](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/06.%20Logistic%20Regression)
 
 []()
 
