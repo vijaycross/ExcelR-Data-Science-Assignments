@@ -50,3 +50,34 @@ This repository contains solutions to various assignments designed to help you g
 To get started with the assignments, simply click on the links provided above for each assignment. If you encounter any issues or have questions, feel free to reach out to us via the discussion forum or by opening an issue.
 
 Happy learning!
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+# Hi, I'm Vijay ! 👋
+
+
+## 🚀 About Me
+A Passionate Machine Learning Enthusiast from India  🇮🇳
+
+- 🧠 I’m currently learning **Machine Learning, Deep Learning & AI**
+
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & AI**
+
+- 💬 Ask me about **Machine Learning**
+
+- 📫 How to reach me **vijaycross@gmail.com**
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaycross/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaycross)
+
+
+## 📨 Feedback
+
+If you have any feedback, please reach out to us at vijaycross@gmail.com
