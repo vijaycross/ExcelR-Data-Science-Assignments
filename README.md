@@ -46,10 +46,11 @@ This repository contains solutions to various assignments designed to help you g
 
 
 
-**Getting Started**
-To get started with the assignments, simply click on the links provided above for each assignment. If you encounter any issues or have questions, feel free to reach out to us via the discussion forum or by opening an issue.
+## Getting Started
 
-Happy learning!
+To get started with the assignments, simply click on the links provided above for each assignment. If you encounter any issues or have questions, feel free to reach out.
+
+## Happy learning!
 
 
 ## Contributing
