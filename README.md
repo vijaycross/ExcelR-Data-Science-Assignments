@@ -7,8 +7,6 @@ This repository contains solutions to various assignments designed to help you g
 
 **Assignments**
 
-***01. Basic Statistics_Level 1***
-
 [01. Basic Statistics Level 1](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/01.%20Basic%20Statistics_Level%201)
 
 ...
