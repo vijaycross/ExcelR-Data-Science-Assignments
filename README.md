@@ -6,6 +6,7 @@ Welcome to the repository containing solutions to assignments for our Data Scien
 This repository contains solutions to various assignments designed to help you grasp key concepts and techniques in the field of data science. Each assignment tackles different aspects of data analysis, machine learning, and more.
 
 **Assignments**
+
 ***01. Basic Statistics_Level 1***
 
 [01. Basic Statistics Level 1](https://github.com/vijaycross/ExcelR-Data-Science-Assignments/tree/main/01.%20Basic%20Statistics_Level%201)
