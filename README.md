@@ -1,8 +1,9 @@
 <h1 align="center">ExcelR Data Science Course Assignments Solutions</h1>
 
-Welcome to the repository containing solutions to assignments for our Data Science Course! Here, you'll find links to the solutions for each assignment along with any relevant information.
+Welcome to the repository containing solutions to assignments for ExcelR Data Science Course!
 
 **Course Overview**
+
 This repository contains solutions to various assignments designed to help you grasp key concepts and techniques in the field of data science. Each assignment tackles different aspects of data analysis, machine learning, and more.
 
 **Assignments**
